@@ -17,11 +17,11 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 55px;
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #adadb1;
 }
 
 .header div {
@@ -39,6 +39,7 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+    font-size: larger;
 }
 
 a {
@@ -47,7 +48,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 23px;
 }
 
 .hero {
@@ -89,16 +90,19 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    font-size: x-large;
 }
 
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+    font-size: x-large;
 }
 
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+    font-size: x-large;
 }
 
 .benefit-lead h3 {
