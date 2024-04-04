@@ -105,7 +105,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* consolidated code to reduce unneeded additions */
+.social-media-marketing,
+.online-reputation-management,
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -116,25 +118,6 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* changed color for accessibility */
-    background-color: #2A607C;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    /* changed color for accessibility */
-    background-color: #2A607C;
-    color: #ffffff;
-}
 /* consolidated code to reduce unneeded additions */
 .search-engine-optimization img,
 .online-reputation-management img,
